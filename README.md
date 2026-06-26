@@ -1,4 +1,4 @@
-# Bash Noughts
+# Bash Noughts & Crosses
 
 <p align="center">
   <img src="noughts_cover.avif" alt="Bash Noughts Header Image">
@@ -102,7 +102,7 @@ As noted earlier, the computer cannot be defeated when using the Minimax method 
 
 ## License
 
-*Bash Noughts* is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](LICENSE) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+*Bash Noughts & Crosses* is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](LICENSE) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This program is distributed **without any warranty**; without even the implied warranty of **merchantability** or **fitness for a particular purpose**.
 
