@@ -14,7 +14,7 @@ A Bash implementation of the old game *Noughts & Crosses*, also known as *Tic Ta
 
 ## Notes
 
-This simple implementation of *Noughts & Crosses* takes advantage of the double-width 'emoji' characters supported in modern terminal emulators, and mouse control. It uses a left-clickis to select the next (square) move. 
+This simple implementation of *Noughts & Crosses* takes advantage of the double-width 'emoji' characters supported in modern terminal emulators, and mouse control. It uses a left-click to select the next (square) move. 
 
 ## Installation
 
